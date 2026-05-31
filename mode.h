@@ -109,7 +109,7 @@ class ModoAutomatico : public GameMode
 class Game
 {
     private:
-        int casillas = 20; // parametros ya predefinidos si se escoge el modo manual
+        int casillas = 30; // parametros ya predefinidos si se escoge el modo manual
         int serpientes = 2;
         int escaleras = 2;
         int penalty = 3;
